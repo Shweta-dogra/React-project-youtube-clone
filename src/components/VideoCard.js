@@ -6,7 +6,7 @@ function VideoCard({...props}){
 
     return(
         <div className="videoCard">
-            <img src={props.image} className="videoCard-image" />
+            <img src={props.image} className="videoCard-image" alt="content-img" />
             <div className="videoCaed-info">
                 <Avatar className="videoCard-avatar" alt={props.channel} src={props.channelImage} /><h4>{props.title}</h4>
                 <div className="video-text">

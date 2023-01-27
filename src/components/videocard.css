@@ -8,9 +8,9 @@
     width: 275px;
     border-radius: 20px;
 }
-.videoCard-avatar{
-    /* margin-right: 0; */
-}
+/* .videoCard-avatar{
+    /* margin-right: 0; 
+} */
 .videoCard-info{
     display: flex;
     margin-top: 0.7rem;

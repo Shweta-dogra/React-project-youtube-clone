@@ -1,8 +1,8 @@
 import React from "react";
 import "./searchPage.css";
 import TuneIcon from "@material-ui/icons/Tune";
-import ChannelRow from "./ChannelRow";
-import ChannelVIdeo from "./ChannelVideo";
+// import ChannelRow from "./ChannelRow";
+// import ChannelVIdeo from "./ChannelVideo";
 
 function SearchPage(){
 
@@ -13,7 +13,7 @@ function SearchPage(){
                 <h2>Filter</h2>
             </div>
             <hr/>
-            
+
 
         </div>
     )

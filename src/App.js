@@ -4,7 +4,7 @@ import './App.css';
 import Header from './components/Header';
 import RecommendedVideos from './components/RecommendedVideos';
 import Sidebar from './components/Sidebar';
-import SearchPage from './components/SearchPage';
+// import SearchPage from './components/SearchPage';
 
 function App() {
   return (

@@ -1,7 +1,6 @@
 import React from "react";
-import Cover from "./Cover";
 import FilterBar from "./FilterBar";
-import News from "./News";
+// import News from "./News";
 import "./recommended.css";
 import VideoCard from "./VideoCard";
 
